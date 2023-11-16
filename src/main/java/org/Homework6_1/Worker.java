@@ -1,4 +1,4 @@
-package org.example;
+package org.Homework6_1;
 
 public class Worker implements Runnable, Observer<EventType> {
   private static final int CHECKS_DELAY = 10;

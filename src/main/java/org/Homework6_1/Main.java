@@ -1,7 +1,4 @@
-package org.example;
-
-import javax.swing.*;
-import java.sql.RowIdLifetime;
+package org.Homework6_1;
 
 public class Main {
   /**

@@ -1,11 +1,9 @@
-package org.example;
+package org.Homework6_1;
 
-import javax.swing.plaf.synth.Region;
 import java.util.*;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.CopyOnWriteArrayList;
-import java.util.concurrent.locks.Lock;
 
 public class Producer implements Runnable, Observable<EventType> {
   public static final int NONE_TASK = -1;
